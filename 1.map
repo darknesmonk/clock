@@ -1,0 +1,28 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+__ds18b20_scratch_pad                                             0x0160       9
+d                                                                 0x0169       4
+t_delay                                                           0x016D       1
+step                                                              0x016E       1
+light_var                                                         0x016F       2
+t                                                                 0x0171       7
+a                                                                 0x0178      10
+_seed                                                             0x0182       4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+menu_var                                                          R5           1
+i                                                                 R4           1
+BEEP_DIS                                                          R2.0      1bit
+BEEP_START                                                        R2.1      1bit
+sec_led                                                           R2.2      1bit
+time_start                                                        R2.3      1bit
+alph                                                              R2.4      1bit
+sec_en                                                            R2.5      1bit
+b_menu                                                            R2.6      1bit
