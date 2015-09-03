@@ -3,3 +3,4 @@
 Программа: CodeVisionAVR
 Микроконтроллер: AVR ATmega8 + Периферия 
 sample.jpg - рабочий пример
+схемы рисовать влом- если что пишите darknesmonk@mail.ru
